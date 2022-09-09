@@ -1,1 +1,1 @@
-# hangman.io
+# node-project-template
