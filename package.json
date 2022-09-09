@@ -1,7 +1,7 @@
 {
-  "name": "hangman.io",
+  "name": "project-template",
   "version": "1.0.0",
-  "description": "hangman webapp game",
+  "description": "project template for node.js projects",
   "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akumar282/hangman.io.git"
+    "url": "git+https://github.com/akumar282/node-project-template.git"
   },
   "author": "akumar282 haydenlauritzen mohazahid",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/akumar282/hangman.io/issues"
+    "url": "https://github.com/akumar282/node-project-template/issues"
   },
-  "homepage": "https://github.com/akumar282/hangman.io#readme",
+  "homepage": "https://github.com/akumar282/node-project-template#readme",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.36.2",
     "eslint": "^8.23.0",
